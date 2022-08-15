@@ -1,35 +1,35 @@
 ## Steps to run the project :-
 Host URL : https://table-functions.netlify.app
 
-1) Install node packages/dependencies
+1) Install node packages/dependencies <br>
     npm install
 
-2) Start/Run the application
+2) Start/Run the application <br>
     ng serve
 
-3) Render the below URL in browser
+3) Render the below URL in browser <br>
     http://localhost:4200 
     
 
-Fetch the data from cookies.json find here => (https://github.com/firetechie/SampleJSONPlaceholder)
+Fetch the data from cookies.json find here => (https://github.com/firetechie/SampleJSONPlaceholder) <br><br>
 
-<img src="https://github.com/firetechie/Part3-Table-Functions/blob/master/Part3-Table-Functions.png" width="100" height="100"/>
+<img src="https://github.com/firetechie/Part3-Table-Functions/blob/master/Part3-Table-Functions.png" />
 ---------------------------------------------------------------------------------------------------------------
 
 ## Another way to run the project :-
 
 1) Go to src/environments, inside .ts file change to apiURL: 'http://localhost:3000/cookies'
 
-1) Install node packages/dependencies
+1) Install node packages/dependencies <br>
     npm install
 
-2) Run the JSON server to fetch the data (Run below CMD in one terminal)
+2) Run the JSON server to fetch the data (Run below CMD in one terminal) <br>
     json-server --watch cookies.json
 
-3) Start/Run the application (Run below CMD in another terminal)
+3) Start/Run the application (Run below CMD in another terminal) <br>
     ng serve
 
-4) Render the below URL in browser
+4) Render the below URL in browser <br>
     http://localhost:4200
 
 
