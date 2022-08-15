@@ -1,0 +1,52 @@
+div {
+  margin: 2% 30% 0% 30%;
+}
+table {
+  width: 100%;
+}
+#table {
+  border: 1px solid #c4c3c3;
+}
+th.mat-header-cell:hover {
+  background-color: #f0f6ff;
+}
+td.mat-cell {
+  font-size: 14px;
+  font-weight: normal;
+  color: #666666;
+  padding-top: 14px;
+  padding-bottom: 13px;
+}
+::ng-deep .hide-arrow .mat-sort-header-arrow {
+  color: #0063e6;
+  opacity: 0.9 !important;
+}
+// If 'Sort' button background color need to change below is the code.
+// ::ng-deep .hide-arrow .mat-sort-header-arrow:hover {
+//   background-color: #f0f6ff;
+// }
+th.mat-header-cell {
+  font-size: 14px;
+  font-weight: bold;
+  color: #666666;
+  background-color: #f7f7f7;
+  padding-right: 24px !important ;
+}
+th.mat-header-cell:last-of-type {
+  padding-right: 0px !important ;
+}
+td.mat-cell:last-of-type {
+  padding-right: 0px !important ;
+}
+.mat-row:nth-child(even) {
+  background-color: #f7f7f7;
+}
+.mat-row:nth-child(even):hover {
+  background-color: #f0f6ff;
+}
+.mat-row:nth-child(odd) {
+  background-color: #ffffff;
+}
+// .mat-row.hovered {
+//   background: #f0f6ff;
+// }
