@@ -36,7 +36,7 @@ Fetch the data from cookies.json find here => (https://github.com/firetechie/Sam
 ---------------------------------------------------------------------------------------------------------------
 
 
-# Part3TableFunctions
+# Part 3 - Table Functions
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
