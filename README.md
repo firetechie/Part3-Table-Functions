@@ -11,9 +11,9 @@ Host URL : https://table-functions.netlify.app
     http://localhost:4200 
     
 
-Fetch the data from cookies.json find here. (https://github.com/firetechie/SampleJSONPlaceholder)
+Fetch the data from cookies.json find here => (https://github.com/firetechie/SampleJSONPlaceholder)
 
-
+<img src="https://github.com/firetechie/Part3-Table-Functions/blob/master/Part3-Table-Functions.png" width="100" height="100"/>
 ---------------------------------------------------------------------------------------------------------------
 
 ## Another way to run the project :-
