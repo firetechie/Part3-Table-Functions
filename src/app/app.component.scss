@@ -7,8 +7,16 @@ table {
 #table {
   border: 1px solid #c4c3c3;
 }
-th.mat-header-cell:hover {
-  background-color: #f0f6ff;
+// If Header Cell (th tag) background color need to change below is the code.
+// th.mat-header-cell:hover {
+//   background-color: #f0f6ff;
+// }
+th.mat-header-cell {
+  font-size: 14px;
+  font-weight: bold;
+  color: #666666;
+  background-color: #f7f7f7;
+  padding-right: 24px !important ;
 }
 td.mat-cell {
   font-size: 14px;
@@ -21,16 +29,9 @@ td.mat-cell {
   color: #0063e6;
   opacity: 0.9 !important;
 }
-// If 'Sort' button background color need to change below is the code.
-// ::ng-deep .hide-arrow .mat-sort-header-arrow:hover {
-//   background-color: #f0f6ff;
-// }
-th.mat-header-cell {
-  font-size: 14px;
-  font-weight: bold;
-  color: #666666;
-  background-color: #f7f7f7;
-  padding-right: 24px !important ;
+::ng-deep .hide-arrow .mat-sort-header-arrow:hover {
+  color: #f0f6ff;
+  opacity: 0.9 !important;
 }
 th.mat-header-cell:last-of-type {
   padding-right: 0px !important ;
