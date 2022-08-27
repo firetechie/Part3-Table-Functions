@@ -11,7 +11,7 @@ Host URL : https://table-functions.netlify.app
     http://localhost:4200 
     
 
-Fetch the data from cookies.json find here => (https://github.com/firetechie/SampleJSONPlaceholder) <br><br>
+Fetch the data from cookies.json find here => (https://my-json-server.typicode.com/firetechie/SampleJSONPlaceholder/cookies) <br><br>
 
 <img src="https://github.com/firetechie/Part3-Table-Functions/blob/master/Part3-Table-Functions.png" />
 ---------------------------------------------------------------------------------------------------------------
